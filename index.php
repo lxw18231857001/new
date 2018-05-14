@@ -12,4 +12,9 @@ class index
     {
         
     }
+
+    public function demo()
+    {
+        $thibn;
+    }
 }
