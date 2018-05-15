@@ -12,4 +12,9 @@ class Index3
     {
         echo 'sssss';
     }
+
+    public function index2()
+    {
+        echo 'sssss';
+    }
 }
