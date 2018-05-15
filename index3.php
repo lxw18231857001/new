@@ -6,7 +6,7 @@
  * Time: 15:10
  */
 
-class Index3
+class index3
 {
     public function index()
     {
