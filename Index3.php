@@ -10,6 +10,6 @@ class Index3
 {
     public function index()
     {
-        
+        echo 'sssss';
     }
 }
