@@ -15,6 +15,6 @@ class index3
 
     public function index2()
     {
-        echo 'sssss';
+        echo 'sssss';echo 'sssss';echo 'sssss';
     }
 }
