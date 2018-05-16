@@ -19,13 +19,7 @@ class index{
     }
     public function demo()
     {
-        echo 1111;
-        echo 222;
-        echo 3333;
-        echo 4444;
-        echo 1111;
-        echo 222;
-        echo 3333;
+
         echo 4444;
     }
 
