@@ -1,0 +1,30 @@
+[33m7ce5359[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: 'updateignore'
+[33m10cd16e[m HEAD@{1}: commit: update ignore
+[33m5724590[m HEAD@{2}: commit: 'copy'
+[33m920b82e[m HEAD@{3}: commit: '添加2016-0506/gitkeep'
+[33m355fb98[m HEAD@{4}: commit: 'test/gitkeep'
+[33mac5f50b[m HEAD@{5}: commit: empty
+[33m9bdaed9[m HEAD@{6}: commit: '创建空文件夹'
+[33m33ec379[m HEAD@{7}: commit: 'align'
+[33m9e52395[m HEAD@{8}: commit: del2
+[33m79a207e[m HEAD@{9}: commit: 'del'
+[33m4d6c899[m HEAD@{10}: commit: 'all2‘
+[33md551819[m HEAD@{11}: commit: 'all'
+[33mf02b212[m HEAD@{12}: commit: 2
+[33me184534[m HEAD@{13}: commit: ''
+[33me2504a5[m HEAD@{14}: commit: index2 index3
+[33m1fd7977[m HEAD@{15}: commit: index2
+[33m15eb651[m HEAD@{16}: commit: 添加index3.php入gitignore
+[33mc229647[m HEAD@{17}: commit: 添加index2.php
+[33m02d7c89[m HEAD@{18}: commit: shanqu index2.php
+[33m0b2c36d[m HEAD@{19}: commit: 添加index3.php
+[33m11870ae[m HEAD@{20}: commit: index2.php添加到ignore
+[33mea541e6[m HEAD@{21}: commit: 修改index2.php
+[33mca819e8[m HEAD@{22}: commit: 添加index2.php
+[33m9cb0303[m HEAD@{23}: commit: update gitignore
+[33mac0ac9a[m HEAD@{24}: commit: 修改index.php
+[33mcc608e3[m HEAD@{25}: commit: 删除 次
+[33m29f1699[m HEAD@{26}: commit: 增加index.php
+[33mde1a2fa[m HEAD@{27}: commit: 二次
+[33m31cdeff[m HEAD@{28}: commit: 首次
+[33mec014a6[m HEAD@{29}: clone: from https://github.com/lxw18231857001/new.git
